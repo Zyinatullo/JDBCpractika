@@ -73,6 +73,7 @@ public class Tapshyrmajdbc6 {
             }
         } catch (SQLException ex) {
             System.out.println(ex.getMessage());
+            System.out.println();
         }
     }
 
